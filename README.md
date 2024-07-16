@@ -1,7 +1,6 @@
 # GesoChat 🦆💬
-![GesoChatIcon](https://github.com/oThiagoBittencourt/GesoChat/assets/106789198/9cf1223f-4b30-433c-8b48-4889ed56af03)
 
-**Academic work that aims to simulate a chat message using websocket with https protocol**
+**A chat message using websocket with https protocol**
 
 ---
 
